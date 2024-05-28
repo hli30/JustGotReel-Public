@@ -1,7 +1,5 @@
 # Just Got Reel
-A casual mobile game created using Unity. It is no longer, but was once deployed on both iOS and Android through Apple Store and Google Play.  
-During the time it was deployed, it generated $1.22 USD of Ad revenue.  
-This repo is for showcase purposes. The code/assets for the project are in a private repo.
+A casual mobile game created using Unity. It was once deployed on both iOS and Android through Apple Store and Google Play. During the time it was deployed, it generated $1.22 USD of Ad revenue. This repo is for showcase purposes. The code/assets for the project are in a private repo.
 
 ## Description
 A fishing casual game inspired by the fishing mini-game in Stardew Valley. The main mechanic is to tap/hold a button to align the "Reel Bar" with the "Fish Bar" on the side of the screen to "catch" fish. The Reel Bar has acceleration and gravity applied to it, through holding and releasing the button. The Fish Bar randomly move from position to position, pausing for a little bit between each move. Together, creating a mini-game requiring precision and timing. The game loop is based on timed rounds, each round ends when player runs out of "Fuel" (timer), the fuel can be upgraded. Furthermore, the game features:
@@ -14,20 +12,20 @@ A fishing casual game inspired by the fishing mini-game in Stardew Valley. The m
 Not shown here, but a simple website was also deployed using Firebase as the "Developer Website", containing privacy disclaimers, descriptions/links to the game. This was required by the Stores for publication.
 
 **Main menu**
-!["MainMenu"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture01.png)
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture01.png" width="250">
 
 **Core game loop**
-!["Core game loop"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture0.png)
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture0.png" width="250">
 
 **Round end results / ad monetization**
-!["RoundEnd"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture3.png)
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture3.png" width="250">
 
 **Shop for upgrades**
-!["Upgrades"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture5.png)
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture5.png" width="250">
 
 **Ship unlock menu / cosmetics**
-!["Cosmetics"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture02.png)
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture02.png" width="250">
 
 **Unity Game Services Web Portal**  
 This screenshot was taken some time after the game was taken down from the stores. So the short-term stats are all zeros, but the lifetime revenue is shown.
-!["Unity"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/UnityAds.png)
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/UnityAds.png" width="250">
