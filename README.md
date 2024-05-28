@@ -1,8 +1,6 @@
 # Just Got Reel
-A casual mobile game created using Unity. It is no longer, but was once deployed on both iOS and Android through Apple Store and Google Play. 
-
-During the time it was deployed, it generated $1.22 USD of Ad revenue. 
-
+A casual mobile game created using Unity. It is no longer, but was once deployed on both iOS and Android through Apple Store and Google Play.  
+During the time it was deployed, it generated $1.22 USD of Ad revenue.  
 This repo is for showcase purposes. The code/assets for the project are in a private repo.
 
 ## Description
@@ -16,20 +14,20 @@ A fishing casual game inspired by the fishing mini-game in Stardew Valley. The m
 Not shown here, but a simple website was also deployed using Firebase as the "Developer Website", containing privacy disclaimers, descriptions/links to the game. This was required by the Stores for publication.
 
 **Main menu**
-!["MainMenu"](https://github.com/hli30/JustGotReel-Public/tree/main/screenshots/capture01.png)
+!["MainMenu"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture01.png)
 
 **Core game loop**
-!["Core game loop"](https://github.com/hli30/JustGotReel-Public/tree/main/screenshots/capture0.png)
+!["Core game loop"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture0.png)
 
 **Round end results / ad monetization**
-!["RoundEnd"](https://github.com/hli30/JustGotReel-Public/tree/main/screenshots/capture3.png)
+!["RoundEnd"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture3.png)
 
 **Shop for upgrades**
-!["Upgrades"](https://github.com/hli30/JustGotReel-Public/tree/main/screenshots/capture5.png)
+!["Upgrades"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture5.png)
 
 **Ship unlock menu / cosmetics**
-!["Cosmetics"](https://github.com/hli30/JustGotReel-Public/tree/main/screenshots/capture02.png)
+!["Cosmetics"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture02.png)
 
-**Unity Game Services Web Portal**
+**Unity Game Services Web Portal**  
 This screenshot was taken some time after the game was taken down from the stores. So the short-term stats are all zeros, but the lifetime revenue is shown.
-!["Unity"](https://github.com/hli30/JustGotReel-Public/tree/main/screenshots/UnityAds.png)
+!["Unity"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/UnityAds.png)
