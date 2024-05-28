@@ -9,23 +9,23 @@ A fishing casual game inspired by the fishing mini-game in Stardew Valley. The m
 - ad monetization: player can voluntarily watch an ad at the end of each game loop to double the rewards
 - upbeat music / sound effects
 
-Not shown here, but a simple website was also deployed using Firebase as the "Developer Website", containing privacy disclaimers, descriptions/links to the game. This was required by the Stores for publication.
+Not shown here, but a simple website was also deployed using Firebase as the "Developer Website", containing privacy disclaimers, descriptions/links to the game. This was required by the Stores for publication.  
 
-**Main menu**
+### Main menu
 <img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture01.png" width="250">
 
-**Core game loop**
+### Core game loop
 <img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture0.png" width="250">
 
-**Round end results / ad monetization**
+### Round end results / ad monetization
 <img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture3.png" width="250">
 
-**Shop for upgrades**
+### Shop for upgrades
 <img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture5.png" width="250">
 
-**Ship unlock menu / cosmetics**
+### Ship unlock menu / cosmetics
 <img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture02.png" width="250">
 
-**Unity Game Services Web Portal**  
-This screenshot was taken some time after the game was taken down from the stores. So the short-term stats are all zeros, but the lifetime revenue is shown.
+### Unity Game Services Web Portal
+This screenshot was taken some time after the game was taken down from the stores. So the short-term stats are all zeros, but the lifetime revenue is shown.  
 <img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/UnityAds.png" width="250">
