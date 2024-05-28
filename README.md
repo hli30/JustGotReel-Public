@@ -12,20 +12,20 @@ A fishing casual game inspired by the fishing mini-game in Stardew Valley. The m
 Not shown here, but a simple website was also deployed using Firebase as the "Developer Website", containing privacy disclaimers, descriptions/links to the game. This was required by the Stores for publication.  
 
 ### Main menu
-<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture01.png" width="250">
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture01.png" width="300">
 
 ### Core game loop
-<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture0.png" width="250">
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture0.png" width="300">
 
 ### Round end results / ad monetization
-<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture3.png" width="250">
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture3.png" width="300">
 
 ### Shop for upgrades
-<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture5.png" width="250">
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture5.png" width="300">
 
 ### Ship unlock menu / cosmetics
-<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture02.png" width="250">
+<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/capture02.png" width="300">
 
 ### Unity Game Services Web Portal
 This screenshot was taken some time after the game was taken down from the stores. So the short-term stats are all zeros, but the lifetime revenue is shown.  
-<img src="https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/UnityAds.png">
+!["unity"](https://github.com/hli30/JustGotReel-Public/blob/main/screenshots/UnityAds.png)
